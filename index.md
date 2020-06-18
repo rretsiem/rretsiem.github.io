@@ -4,10 +4,10 @@ Hier kommt vielleicht mal etwas Text, da ich aberr nicht über einen Charakter s
 
 ## Subheader
 
-- Liste 1
-- Item 1
-- Item 2
-- Liste 2
-- ungeordnet 1
-- noch mehr
-- und noch mehr
+* Liste 1
+* Item 1
+* Item 2
+* Liste 2
+* ungeordnet 1
+* noch mehr
+* und noch mehr

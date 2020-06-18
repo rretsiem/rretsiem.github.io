@@ -1,14 +1,17 @@
-# Das ist ein Titel
+# Die Biene
 
-Hier kommt vielleicht mal etwas Text, da ich aberr nicht über einen Charakter schreiben möchte, ist das hier ein Platzhalter. Sollte es notwendig sein, hier doch eine Person zu benennen, wird dies noch geschehen.
+Es gibt drei verschiedene Typen von Bienen in einem Bienenvolk: die Königin (legt Eier), die Arbeiterinnen (sammeln Nektar und schützen das Nest) und die männlichen Drohnen (zur Fortpflanzung). 
 
 ## Subheader
 
-* Liste 1
-* Item 1
-* Item 2
-* Liste 2
-* ungeordnet 1
-* noch mehr
+* Name: Biene
+* Weitere Namen: Honigbiene
+* Lateinischer Name: Apis
+* Klasse: Insekten
+* Größe: 10 - 15mm
+* Gewicht: ca. 0,1g
+* Alter: 1 - 5 Jahre (nur die Bienenkönigin) 
 
-> Hier steht ein Zitat des Charakters. Das können auch mehrere Zeilen sein.
+> Warum erklärst du's mir nicht? Aber so, dass ich dich auch wirklich verstehe. Wie soll ich denn was lernen für's Leben, wenn mir keiner was erklärt?
+
+<img src="https://microblog.renem.net/uploads/2020/031a7c35cd.jpg"/>
